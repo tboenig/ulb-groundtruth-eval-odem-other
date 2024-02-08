@@ -1,0 +1,76 @@
+{
+  "schema": "https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json",
+  "title": "Groundtruth ULB VD18 ODEM other",
+  "url": "https://github.com/M3ssman/ulb-groundtruth-eval-odem-other",
+  "authors": [
+    {
+      "name": "Uwe",
+      "surname": "Hartwig",
+      "orcid": "0000-0001-7164-6376",
+      "roles": [
+        "project-manager",
+        "quality-control"
+      ]
+    }
+  ],
+  "description": "Grundtruth ULB VD18 ODEM DFG 2021-2024",
+  "language": [
+    "eng",
+    "deu",
+    "ita"
+  ],
+  "production-software": "OCR-D",
+  "script": [
+    "Latn",
+    "Goth"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1700",
+    "notAfter": "1799"
+  },
+  "hands": {
+    "count": "3",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "PublicDomainMark 1.0",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  ],
+  "gtType": "data_structure_and_text",
+  "format": "Page-XML",
+  "volume": [
+    {
+      "metric": "pages",
+      "count": 12
+    }
+  ],
+  "gtvolume": {
+    "TxtRegion": "114",
+    "GraphRegion": "1",
+    "SepRegion": "1",
+    "NoiseRegion": "1",
+    "TextLine": "473",
+    "Page": "12"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line",
+    "granularity/physical/document-related/word",
+    "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/running-titles",
+    "data-attributes/document-related/visual/text/font/typeface/blackletter",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}
