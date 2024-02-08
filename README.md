@@ -65,6 +65,25 @@
             </thead>
             <tbody>
                <tr>
+                  <td>eng</td>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+                  <td>1</td>
+               </tr>
+               <tr>
                   <td>eng+ger</td>
                   <td>6</td>
                   <td/>
@@ -82,25 +101,6 @@
                   <td/>
                   <td>34</td>
                   <td>1</td>
-               </tr>
-               <tr>
-                  <td>ita</td>
-                  <td>26</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>230</td>
-                  <td>6</td>
                </tr>
                <tr>
                   <td>ita+ger</td>
@@ -122,23 +122,23 @@
                   <td>4</td>
                </tr>
                <tr>
-                  <td>eng</td>
-                  <td>5</td>
+                  <td>ita</td>
+                  <td>26</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
                   <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>230</td>
+                  <td>6</td>
                </tr>
             </tbody>
          </table>
